@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - GDSC 5th Member (2023 ~ 2024)
 - SSAFY (2025 ~ ing)
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/taegyunB/github-readme-stats)
+  ![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaegyunB&show_icons=true&theme=radical)
