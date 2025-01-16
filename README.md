@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Ready to be Backend developer 🧑🏻‍💻
 
 #### History
-- Hankuk University of Foreign Studies
+- Hankuk University of Foreign Studies (2018 ~ 2024)
   - Major: Division of Global Business & Technology
   - Minor: Division of Computer Science
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
