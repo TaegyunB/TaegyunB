@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Experience
+### History
 - Hankuk University of Foreign Studies
   - Major: Division of Global Business & Technology
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
