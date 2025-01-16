@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### History
 - Hankuk University of Foreign Studies
   - Major: Division of Global Business & Technology
+  - Minor: Division of Computer Science
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
   - Role: Coordinator
 - Codeit Ambassador (2024.01.04 ~ 2024.02.21)
