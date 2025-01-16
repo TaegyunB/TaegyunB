@@ -22,10 +22,10 @@ Ready to be BackEnd developer 🧑🏻‍💻
   - Major: Division of Global Business & Technology
   - Minor: Division of Computer Science
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
-  - Role: Coordinator
+  - Role: Coordinator & Website Management
 - Codeit Ambassador (2024.01.04 ~ 2024.02.21)
 - GDSC 5th Member (2023 ~ 2024)
-- HUFS Python Coding Zone Teaching Assistant (2024.03.04 ~ 2024.06.21)
+- HUFS Coding Zone Teaching Assistant (2024.03.04 ~ 2024.06.21)
 - SSAFY (2025 ~ ing)
 
   ![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaegyunB&show_icons=true&theme=radical)
