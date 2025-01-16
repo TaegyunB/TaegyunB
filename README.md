@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Experience
+### Experience
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
 - Codeit Ambassador (2024.01.04 ~ 2024.02.21)
 - GDSC 5th Member (2023 ~ 2024)
 - SSAFY (2025 ~ ing)
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/taegyunB/github-readme-stats)
