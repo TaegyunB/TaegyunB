@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ready to be Backend developer 🧑🏻‍💻
+Ready to be BackEnd developer 🧑🏻‍💻
 
 #### History
 - Hankuk University of Foreign Studies (2018 ~ 2024)
