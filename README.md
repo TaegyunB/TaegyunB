@@ -23,8 +23,8 @@ Ready to be BackEnd developer 🧑🏻‍💻
   - Minor: Division of Computer Science
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
   - Role: Coordinator & Website Management
-- Codeit Ambassador 2th (2024.01.04 ~ 2024.02.21)
-- GDSC 5th Member (2023 ~ 2024)
+- CodeIt Ambassador 2nd (2024.01.04 ~ 2024.02.21)
+- GDSC Member 5th (2023 ~ 2024)
 - HUFS Coding Zone Teaching Assistant (2024.03.04 ~ 2024.06.21)
 - SSAFY 13th (2025 ~ ing)
 
