@@ -44,8 +44,9 @@ Ready to be BackEnd developer 🧑🏻‍💻
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
+
 <div>
-  ![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaegyunB&show_icons=true&theme=radical)
+  ![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegyunb&show_icons=true&theme=radical)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyunB&layout=donut)
 </div>
