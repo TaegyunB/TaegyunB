@@ -45,8 +45,7 @@ Ready to be BackEnd developer 🧑🏻‍💻
 </div>
 <br>
 
-<div>
-  ![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegyunb&show_icons=true&theme=radical)
+![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegyunb&show_icons=true&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyunB&layout=donut)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyunB&layout=donut)
+
