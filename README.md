@@ -28,6 +28,11 @@ Ready to be BackEnd developer 🧑🏻‍💻
 - HUFS Coding Zone Teaching Assistant (2024.03.04 ~ 2024.06.21)
 - SSAFY 13th (2025 ~ ing)
 
+### Stack
+<img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
+
+
   ![TaegyunB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaegyunB&show_icons=true&theme=radical)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegyunB&layout=donut)
+
