@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Ready to be BackEnd developer 🧑🏻‍💻
 
-#### History
+### History
 - Hankuk University of Foreign Studies (2018 ~ 2024)
   - Major: Division of Global Business & Technology
   - Minor: Division of Computer Science
