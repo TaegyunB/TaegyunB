@@ -24,9 +24,9 @@ Ready to be BackEnd developer 🧑🏻‍💻
 - Silkroad Universities Network(SUN) (2022.07.01 ~ 2023.01.31)
   - Role: Coordinator & Website Management
 - CodeIt Ambassador 2nd (2024.01.04 ~ 2024.02.21)
-- GDSC Member 5th (2023 ~ 2024)
+- GDSC(Google Developer Student Club) Member 5th (2023 ~ 2024)
 - HUFS Coding Zone Teaching Assistant (2024.03.04 ~ 2024.06.21)
-- SSAFY 13th (2025 ~ ing)
+- SSAFY(Samsung Software AI Academy For Youth) 13th (2025 ~ ing)
 
 ### Stack
 <div>
