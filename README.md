@@ -34,7 +34,7 @@
 - 🚀 **CodeIt Ambassador 2nd (2024.01 ~ 2024.02)**  
 - 👥 **GDSC (Google Developer Student Club) Member 5th (2023 ~ 2024)**  
 - 💻 **HUFS Coding Zone – Teaching Assistant (2024.03 ~ 2024.06)**  
-- 🏫 **SSAFY (Samsung Software AI Academy) 13th (2025 ~ ing)**  
+- 🏫 **SSAFY (Samsung Software AI Academy For Youth) 13th (2025 ~ ing)**  
 
 ---
 
