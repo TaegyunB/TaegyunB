@@ -67,6 +67,17 @@
 
 ---
 
+### 📚 Projects
+
+| 기간 | 프로젝트 | 역할 | 링크 |
+|------|----------|------|-------|
+| 2025.10.10 ~ 2025.11.20 | AI 기반 VR 개인 맞춤형 난독증 한글 학습 서비스 “리딩버디” | Backend | [Repository](https://github.com/TaegyunB/ReadingBuddy) |
+| 2025.09.01 ~ 2025.09.29 | AI 기반 실시간 웹 콘텐츠 필터링 Chrome Extension “지킴앤하이드” | AI/Infra/Backend | [Repository](https://github.com/TaegyunB/ProtectAndHide) |
+| 2025.07.14 ~ 2025.08.21 | 지역 경로당을 연결하고 어르신들의 소통과 참여 중심의 커뮤니티 “동네방네” | 팀장/AI/Infra/Backend | [Repository](https://github.com/TaegyunB/DongneBangne) |
+| 2025.05.19 ~ 2025.05.28 | 독서 경험을 보다 풍부하게 만들어주는 통합 독서 플랫폼 “BookBee” | 팀장/Frontend/Backend | [Repository](https://github.com/TaegyunB/BookBee) |
+
+---
+
 ### 📊 GitHub Stats  
 <div align="center">
   
