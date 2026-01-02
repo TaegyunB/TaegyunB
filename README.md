@@ -21,7 +21,8 @@
 
 </div>
 
----
+--- 
+
 ### 🏷️ History  
 - 🏫 **SSAFY (Samsung Software AI Academy For Youth) 13th (2025.01 ~ 2025.12)**
 - 💻 **HUFS Coding Zone – Teaching Assistant (2024.03 ~ 2024.06)**
