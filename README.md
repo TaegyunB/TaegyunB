@@ -25,12 +25,12 @@
 
 ### 🏷️ History  
 - 🏫 **SSAFY (Samsung Software AI Academy For Youth) 13th (2025.01 ~ 2025.12)**
-- 💻 **HUFS Coding Zone Teaching Assistant (2024.03 ~ 2024.06)**
+- 💻 **Coding Zone Teaching Assistant (2024.03 ~ 2024.06)**
 - 👥 **GDSC (Google Developer Student Club) Member 5th (2023 ~ 2024)**
 - 🚀 **CodeIt Ambassador 2nd (2024.01 ~ 2024.02)**
 - 🌐 **Silkroad Universities Network (2022.07 ~ 2023.01)**  
   Role: Coordinator & Website Management  
-- 🎓 **Hankuk University of Foreign Studies (2018 ~ 2024)**  
+- 🎓 **University (2018 ~ 2024)**  
   <img src="https://img.shields.io/badge/Major-Global%20Business%20&%20Technology-blue?style=flat">  
   <img src="https://img.shields.io/badge/Minor-Computer%20Science-green?style=flat">
 
