@@ -25,6 +25,7 @@
 
 ### 🏷️ History  
 - 💼 **PCN AI Backend Software Engineer Intern (2026.07 ~ ing)**
+  - Research & Solution Division, LLM Team
 - 🏫 **SSAFY (Samsung Software AI Academy For Youth) 13th (2025.01 ~ 2025.12)**
 - 💻 **Coding Zone Teaching Assistant (2024.03 ~ 2024.06)**
 - 👥 **GDSC (Google Developer Student Club) Member 5th (2023 ~ 2024)**
